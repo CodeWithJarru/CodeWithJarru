@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Muhammad Jarrar Aziz!
 
-🚀 A passionate **Frontend & PHP Developer**, currently diving deep into the world of **SaaS development**.
+🚀 A passionate **Frontend & PHP Developer**, currently making strong Projects and Portfolio.
 
 ---
 
 ### 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Bootstrap  
-- **Backend:** PHP, Laravel, MySQL  
-- **Others:** JSON
+- **Backend:** PHP, Laravel, MySQL, Mongo DB, Node JS, Express JS
+- **Others:** JSON, Python
 
 ---
 
@@ -22,7 +22,7 @@
 
 ### 🔭 Current Focus
 > **Building and enhancing developer portfolios**  
-Exploring SaaS architecture, building reusable components, and crafting pixel-perfect UIs.
+Building reusable components, and crafting pixel-perfect UIs.
 
 ---
 
